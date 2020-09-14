@@ -1,0 +1,13 @@
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Metanit.exe
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Metanit.deps.json
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Metanit.runtimeconfig.json
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Metanit.runtimeconfig.dev.json
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Metanit.dll
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Metanit.pdb
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Metanit.csprojAssemblyReference.cache
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Metanit.AssemblyInfoInputs.cache
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Metanit.AssemblyInfo.cs
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Metanit.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Metanit.dll
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Metanit.pdb
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Metanit.genruntimeconfig.cache

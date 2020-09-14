@@ -1,0 +1,13 @@
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Arrays and array examples.exe
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Arrays and array examples.deps.json
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Arrays and array examples.runtimeconfig.json
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Arrays and array examples.runtimeconfig.dev.json
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Arrays and array examples.dll
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Arrays and array examples.pdb
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Arrays and array examples.csprojAssemblyReference.cache
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Arrays and array examples.AssemblyInfoInputs.cache
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Arrays and array examples.AssemblyInfo.cs
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Arrays and array examples.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Arrays and array examples.dll
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Arrays and array examples.pdb
+C:\Users\Sanya\Desktop\C# уровень 2\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Arrays and array examples.genruntimeconfig.cache
